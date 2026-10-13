@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Awesome';
   src: url("fontawesome-webfont.eot");
-  src: url("fontawesome-webfont.eot@") format("embedded-opentype"), url("http://820219.21.oml.ru/g/tpl/all/font/fontawesome-webfont.woff2") format("woff2"), url("fontawesome-webfont.woff") format("woff"), url("fontawesome-webfont.ttf") format("truetype"), url("fontawesome-webfont.svg") format("svg");
+  src: url("fontawesome-webfont.eot@") format("embedded-opentype"), url("fontawesome-webfont.woff") format("woff"), url("fontawesome-webfont.ttf") format("truetype"), url("fontawesome-webfont.svg") format("svg");
   font-weight: normal;
   font-style: normal; }
 

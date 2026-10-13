@@ -1,0 +1,1 @@
+/* html5shiv stub (IE<9 only) */

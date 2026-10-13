@@ -1,0 +1,1 @@
+/* IE polyfills stub (IE<10 only) */
